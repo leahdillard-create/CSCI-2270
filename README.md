@@ -1,2 +1,2 @@
 # CSCI-2270
- Fall 2020 Semester Work
+All Fall 2020 Semester Work
